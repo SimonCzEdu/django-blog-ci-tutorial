@@ -26,5 +26,6 @@
    "editor.defaultFormatter": "HookyQR.beautify",
    "[python]": {
       "editor.defaultFormatter": "mikoz.black-py"
-   }
+   },
+   "python.REPL.enableREPLSmartSend": false
 }
